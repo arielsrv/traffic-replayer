@@ -1,0 +1,4 @@
+n: 1
+c: 1
+baseUrl: "http://localhost:8081/recommendations?client=pdp-products-recommendations&site_id=KES&product_id=%s"
+filePath: "./products.csv"
