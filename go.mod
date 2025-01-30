@@ -5,7 +5,7 @@ go 1.23.1
 require (
 	github.com/alitto/pond v1.9.2
 	github.com/prometheus/client_golang v1.20.5
-	github.com/samber/lo v1.49.0
+	github.com/samber/lo v1.49.1
 	github.com/spf13/viper v1.19.0
 )
 
